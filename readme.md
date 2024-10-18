@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Data Loader Transactional  Tables  - Load a large historical transactional tables into a relational datastore. One Time LOAD ![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Data Loader Transactional  Tables  
+    ## Load a large historical transactional tables into a relational datastore. One Time LOAD 
+    ![Image image_filename](code.png)
 Welcome to the solution **Data Loader Transactional  Tables ** - an example for your projects
 
 Load a large historical transactional tables into a relational datastore. One Time LOAD 
@@ -12,12 +15,15 @@ To get started with the **Data Loader Transactional  Tables ** solution reposito
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
